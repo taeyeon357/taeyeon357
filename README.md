@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://sodehdt-ldkt.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyeon357)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyeon357&hide=contribs,prs&show_icons=true&theme=graywhite)
