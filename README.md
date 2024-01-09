@@ -16,6 +16,7 @@
 </div>
 
 <div align=center>
+  
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -23,14 +24,14 @@
 
   ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
   ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
   <br>
 
 
   ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-  ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white)
+  ![mariadb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white)
   ![influxdb](https://img.shields.io/badge/influxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
   ![sqlite](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
   <br>
@@ -57,15 +58,16 @@
 
 |기간|프로젝트|사용 기술|링크|
 |:---:|:---:|:---:|:---:|
-|2021.03~2021.11|도커 모니터링|<img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=black"> <img src="https://img.shields.io/badge/centOS-0088CC?style=flat&logo=centos&logoColor=black"> <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> <br><img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/influxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white"> <img src="https://img.shields.io/badge/chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white"> | |
-|2022.03~2022.11|자연어 처리 기반 전통주 추천 시스템|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <br><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat&logo=amazonaws&logoColor=white"> <br><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> | |
-|2023.10.27~2023.11.10|웹 소켓을 이용한 오목 게임 구현|<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> | |
-|2023.11.13~2023.12.29|중고 물품 경매 플랫폼(와글와글)|<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">  <br> img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white">| |
+|2021.03~2021.11|도커 모니터링| <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=black"> <img src="https://img.shields.io/badge/centOS-0088CC?style=flat&logo=centos&logoColor=black"> <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> <br> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/influxDB-22ADF6?style=flat&logo=InfluxDB&logoColor=white"> <img src="https://img.shields.io/badge/chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white"> | |
+|2022.03~2022.11|자연어 처리 기반 전통주 추천 시스템| <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> <br><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/amazon aws-232F3E?style=flat&logo=amazonaws&logoColor=white"> <br><img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> | |
+|2023.10.27~2023.11.10|웹 소켓을 이용한 오목 게임 구현|<img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> | |
+|2023.11.13~2023.12.29|중고 물품 경매 플랫폼(와글와글)| <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">  <br> <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white">| |
 <br>
 </div>
 
 <div align=center>
 <h2>💻 ETC 💻</h2>
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=taeyeon357&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyeon357)](https://github.com/anuraghazra/github-readme-stats)
