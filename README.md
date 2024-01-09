@@ -48,7 +48,7 @@
   ![centos](https://img.shields.io/badge/centOS-0088CC?style=flat&logo=centos&logoColor=black)
   ![aws](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black)
-  ![apachetomcat](https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
+  ![apachetomcat](https://img.shields.io/badge/apache-tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
 
   <br>
 
@@ -73,6 +73,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyeon357)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taeyeon357)](https://solved.ac/taeyeon357)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyeon357&hide=contribs,prs&show_icons=true&theme=graywhite)
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyeon357&hide=contribs,prs&show_icons=true&theme=graywhite)
+
