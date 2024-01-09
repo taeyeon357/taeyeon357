@@ -69,9 +69,8 @@
 </div>
 
 <div align=center>
-<h2>💻 ETC 💻</h2>
 
-<h3>👾 Git 👾</h3>
+<h3>💻 Git 💻</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=taeyeon357&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyeon357)](https://github.com/anuraghazra/github-readme-stats)
