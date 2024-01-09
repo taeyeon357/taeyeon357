@@ -70,12 +70,16 @@
 
 <div align=center>
 <h2>💻 ETC 💻</h2>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=taeyeon357&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 
+<h3>👾 Git 👾</h3>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=taeyeon357&theme=dracula&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyeon357)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>🧩 Algorithm 🧩</h3>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taeyeon357)](https://solved.ac/taeyeon357)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyeon357&hide=contribs,prs&show_icons=true&theme=graywhite)
+
 </div>
 
 
