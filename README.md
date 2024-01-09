@@ -48,7 +48,7 @@
   ![centos](https://img.shields.io/badge/centOS-0088CC?style=flat&logo=centos&logoColor=black)
   ![aws](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
   ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black)
-  ![apachetomcat](https://img.shields.io/badge/apache-tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
+  ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
 
   <br>
 
